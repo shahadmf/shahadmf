@@ -19,9 +19,9 @@
 <!--   <a href="https://twitter.com/Shahadalfaddagh">
     <img src="https://img.shields.io/badge/Shahad_f-black?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
   </a> -->
-   <a href="https://twitter.com/Shahadalfaddagh">
+   <!-- <a href="https://twitter.com/Shahadalfaddagh">
     <img src="https://img.shields.io/badge/Linktree-darkgreen?style=for-the-badge&logo=linktree&logoColor=white" alt="X Badge"/>
-  </a>
+  </a> -->
 </div>
 
 
